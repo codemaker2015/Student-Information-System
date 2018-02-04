@@ -1,0 +1,94 @@
+Line 179: Class MIS.jcbutton of control Command1 was not a loaded control class.
+Line 433: Class MIS.Container of control Container1 was not a loaded control class.
+Line 842: Class MIS.Container of control Container3 was not a loaded control class.
+Line 996: Class MIS.jcbutton of control jcbutton1 was not a loaded control class.
+Line 1010: Class MIS.jcbutton of control cmdNext1 was not a loaded control class.
+Line 1024: Class MIS.jcbutton of control jcbutton2 was not a loaded control class.
+Line 1038: Class MIS.jcbutton of control cmdBack1 was not a loaded control class.
+Line 1052: Class MIS.jcbutton of control jcbutton3 was not a loaded control class.
+Line 1066: Class MIS.jcbutton of control jcbutton4 was not a loaded control class.
+Line 1080: Class MIS.jcbutton of control jcbutton6 was not a loaded control class.
+Line 1094: Class MIS.jcbutton of control jcbutton5 was not a loaded control class.
+Line 1108: Class MIS.jcbutton of control jcbutton7 was not a loaded control class.
+Line 1122: Class MIS.jcbutton of control jcbutton9 was not a loaded control class.
+Line 1136: Class MIS.jcbutton of control jcbutton8 was not a loaded control class.
+Line 1150: Class MIS.Container of control Container4 was not a loaded control class.
+Line 180: The property name Cancel in Command1 is invalid.
+Line 186: The property name _extentx in Command1 is invalid.
+Line 187: The property name _extenty in Command1 is invalid.
+Line 188: The property name buttonstyle in Command1 is invalid.
+Line 191: The property name caption in Command1 is invalid.
+Line 192: The property name usemaskcolor in Command1 is invalid.
+Line 179: Property Font in Command1 could not be set.
+Line 439: The property name _extentx in Container1 is invalid.
+Line 440: The property name _extenty in Container1 is invalid.
+Line 848: The property name _extentx in Container3 is invalid.
+Line 849: The property name _extenty in Container3 is invalid.
+Line 1002: The property name _extentx in jcbutton1 is invalid.
+Line 1003: The property name _extenty in jcbutton1 is invalid.
+Line 1004: The property name buttonstyle in jcbutton1 is invalid.
+Line 1007: The property name caption in jcbutton1 is invalid.
+Line 1008: The property name usemaskcolor in jcbutton1 is invalid.
+Line 996: Property Font in jcbutton1 could not be set.
+Line 1016: The property name _extentx in cmdNext1 is invalid.
+Line 1017: The property name _extenty in cmdNext1 is invalid.
+Line 1018: The property name buttonstyle in cmdNext1 is invalid.
+Line 1021: The property name caption in cmdNext1 is invalid.
+Line 1022: The property name usemaskcolor in cmdNext1 is invalid.
+Line 1010: Property Font in cmdNext1 could not be set.
+Line 1030: The property name _extentx in jcbutton2 is invalid.
+Line 1031: The property name _extenty in jcbutton2 is invalid.
+Line 1032: The property name buttonstyle in jcbutton2 is invalid.
+Line 1035: The property name caption in jcbutton2 is invalid.
+Line 1036: The property name usemaskcolor in jcbutton2 is invalid.
+Line 1024: Property Font in jcbutton2 could not be set.
+Line 1044: The property name _extentx in cmdBack1 is invalid.
+Line 1045: The property name _extenty in cmdBack1 is invalid.
+Line 1046: The property name buttonstyle in cmdBack1 is invalid.
+Line 1049: The property name caption in cmdBack1 is invalid.
+Line 1050: The property name usemaskcolor in cmdBack1 is invalid.
+Line 1038: Property Font in cmdBack1 could not be set.
+Line 1058: The property name _extentx in jcbutton3 is invalid.
+Line 1059: The property name _extenty in jcbutton3 is invalid.
+Line 1060: The property name buttonstyle in jcbutton3 is invalid.
+Line 1063: The property name caption in jcbutton3 is invalid.
+Line 1064: The property name usemaskcolor in jcbutton3 is invalid.
+Line 1052: Property Font in jcbutton3 could not be set.
+Line 1072: The property name _extentx in jcbutton4 is invalid.
+Line 1073: The property name _extenty in jcbutton4 is invalid.
+Line 1074: The property name buttonstyle in jcbutton4 is invalid.
+Line 1077: The property name caption in jcbutton4 is invalid.
+Line 1078: The property name usemaskcolor in jcbutton4 is invalid.
+Line 1066: Property Font in jcbutton4 could not be set.
+Line 1086: The property name _extentx in jcbutton6 is invalid.
+Line 1087: The property name _extenty in jcbutton6 is invalid.
+Line 1088: The property name buttonstyle in jcbutton6 is invalid.
+Line 1091: The property name caption in jcbutton6 is invalid.
+Line 1092: The property name usemaskcolor in jcbutton6 is invalid.
+Line 1080: Property Font in jcbutton6 could not be set.
+Line 1100: The property name _extentx in jcbutton5 is invalid.
+Line 1101: The property name _extenty in jcbutton5 is invalid.
+Line 1102: The property name buttonstyle in jcbutton5 is invalid.
+Line 1105: The property name caption in jcbutton5 is invalid.
+Line 1106: The property name usemaskcolor in jcbutton5 is invalid.
+Line 1094: Property Font in jcbutton5 could not be set.
+Line 1114: The property name _extentx in jcbutton7 is invalid.
+Line 1115: The property name _extenty in jcbutton7 is invalid.
+Line 1116: The property name buttonstyle in jcbutton7 is invalid.
+Line 1119: The property name caption in jcbutton7 is invalid.
+Line 1120: The property name usemaskcolor in jcbutton7 is invalid.
+Line 1108: Property Font in jcbutton7 could not be set.
+Line 1128: The property name _extentx in jcbutton9 is invalid.
+Line 1129: The property name _extenty in jcbutton9 is invalid.
+Line 1130: The property name buttonstyle in jcbutton9 is invalid.
+Line 1133: The property name caption in jcbutton9 is invalid.
+Line 1134: The property name usemaskcolor in jcbutton9 is invalid.
+Line 1122: Property Font in jcbutton9 could not be set.
+Line 1142: The property name _extentx in jcbutton8 is invalid.
+Line 1143: The property name _extenty in jcbutton8 is invalid.
+Line 1144: The property name buttonstyle in jcbutton8 is invalid.
+Line 1147: The property name caption in jcbutton8 is invalid.
+Line 1148: The property name usemaskcolor in jcbutton8 is invalid.
+Line 1136: Property Font in jcbutton8 could not be set.
+Line 1156: The property name _extentx in Container4 is invalid.
+Line 1157: The property name _extenty in Container4 is invalid.
